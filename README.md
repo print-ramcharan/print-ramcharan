@@ -28,21 +28,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=print-ramcharan&theme=buefy&hide_border=true&include_all_commits=false&count_private=false)  
 ![](https://nirzak-streak-stats.vercel.app/?user=print-ramcharan&theme=buefy&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=print-ramcharan&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=print-ramcharan&theme=buefy&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-## 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=print-ramcharan&limit=5&theme=buefy&combine_all_yearly_contributions=true)
-
----
-
-![](https://visitcount.itsvg.in/api?id=print-ramcharan&icon=1&color=8)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
