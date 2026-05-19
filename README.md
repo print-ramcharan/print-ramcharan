@@ -1,65 +1,41 @@
-<h1 align="center">Hi 👋, I'm Polabathina Ramcharan Teja</h1>
-<h3 align="center">Computer Science student • I love to build software that I use in my daily life</h3>
+# Polabathina Ramcharan Teja
+**Computer Science Student & Systems/Backend Engineer**
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=print-ramcharan&label=Profile%20views&color=0e75b6&style=flat" alt="print-ramcharan" />
-</p>
+A Computer Science student focused on the intersection of robust backend architectures and artificial intelligence engineering, specializing in high-performance distributed systems and LLM optimization patterns.
 
----
-
-### About me
-- I’m a CS student who enjoys turning ideas into real products I can use every day.
-- I like building across **mobile**, **backend APIs**, and **full-stack projects**.
-- 📫 Reach me at **ramcharanpolabathina@gmail.com**
+[LinkedIn](https://www.linkedin.com/in/polabathina-ramcharan-teja/) • ramcharanpolabathina@gmail.com
 
 ---
 
-### Featured projects
-Here are some projects from my GitHub that represent what I like building:
+### Tech Stack
 
-- 🎵 **Gandharva** — music application  
-  https://github.com/print-ramcharan/Gandharva
-
-- 🎶 **music-api** — backend API for music features  
-  https://github.com/print-ramcharan/music-api
-
-- 🕷️ **gandarva-scraper** — scraping / automation for music data  
-  https://github.com/print-ramcharan/gandarva-scraper
-
-- 📦 **distributed-oms** — distributed system project  
-  https://github.com/print-ramcharan/distributed-oms
-
-- 📺 **TV-Quick-Access-App** — Android TV quick access app  
-  https://github.com/print-ramcharan/TV-Quick-Access-App
-
-- 🤖 **Context-Rot-Demo-Popular-Models** — ML/LLM experiments (Python)  
-  https://github.com/print-ramcharan/Context-Rot-Demo-Popular-Models
+- **Backend & Systems:** Java (Spring Boot), Python, Apache Kafka, C, C++, Assembly
+- **Web & Cloud:** TypeScript, JavaScript, HTML/CSS
+- **Mobile:** Kotlin (Android)
 
 ---
 
-### Tech stack (from my repos)
-**Mobile:** Kotlin (Android)  
-**Backend / Systems:** Java, TypeScript, Python  
-**Web:** TypeScript, JavaScript, HTML, CSS  
-**Low-level / OS:** C, C++, Assembly  
-**Other:** Swift, C#, Elixir, Scala
+### Featured Projects
+
+#### [Gandharva](https://github.com/print-ramcharan/Gandharva) & [Music API](https://github.com/print-ramcharan/music-api)
+A comprehensive music streaming application and its robust backend API designed to manage and stream music features efficiently.
+* **Automation:** Supported by [gandarva-scraper](https://github.com/print-ramcharan/gandarva-scraper) for automated music data scraping and ingestion.
+
+#### [Distributed OMS](https://github.com/print-ramcharan/distributed-oms)
+A distributed order management system designed to handle high-throughput workloads using a microservices architecture and event-driven data streaming.
+
+#### [Context Rot Demo](https://github.com/print-ramcharan/Context-Rot-Demo-Popular-Models)
+An experimental project analyzing context degradation patterns in Large Language Models and evaluating mitigation architectures.
 
 ---
 
-### Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/polabathina-ramcharan-teja/" target="_blank">
-    <img align="center" alt="LinkedIn" height="28" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-  </a>
-  <a href="https://www.topcoder.com/members/500083" target="_blank">
-    <img align="center" alt="TopCoder" height="28" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" />
-  </a>
-</p>
+### GitHub Activity
 
----
+&nbsp;
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=print-ramcharan&show_icons=true&locale=en" alt="print-ramcharan" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=print-ramcharan&" alt="print-ramcharan" />
-</p>
+[![Ramcharan's GitHub Stats](https://github-readme-stats-two-nu.vercel.app/api?username=print-ramcharan&show_icons=true&theme=vortex&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ramcharan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=print-ramcharan&theme=vortex&hide_border=true)](https://github.com/gitcoder/github-readme-streak-stats)
+
+&nbsp;
+
+![Profile Views](https://komarev.com/ghpvc/?username=print-ramcharan&label=Profile%20views&color=0e75b6&style=flat-square)
