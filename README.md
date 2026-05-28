@@ -1,6 +1,12 @@
 # Polabathina Ramcharan Teja
-**Computer Science Student at Chaitanya Bharathi Institute of Technology & Systems/Backend Engineer**
 
+**Computer Science Student**
+
+Chaitanya Bharathi Institute of Technology
+
+**Systems/Backend Engineer**
+
+A Computer Science student at Chaitanya Bharathi Institute of Technology focused on the intersection of robust backend architectures and artificial intelligence engineering, specializing in high-performance, scalable solutions.
 A Computer Science student at Chaitanya Bharathi Institute of Technology focused on the intersection of robust backend architectures and artificial intelligence engineering, specializing in high-performance distributed systems and LLM optimization.
 
 [LinkedIn](https://www.linkedin.com/in/polabathina-ramcharan-teja/) • ramcharanpolabathina@gmail.com
