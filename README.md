@@ -1,37 +1,28 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:C084FC&height=200&section=header&text=Polabathina%20Ramcharan%20Teja&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:A78BFA&height=200&section=header&text=Polabathina%20Ramcharan%20Teja&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Android%20%E2%80%A2%20AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
-
-Computer Science student at Chaitanya Bharathi Institute of Technology (CBIT) specializing in high-throughput backend engineering, distributed systems, and agentic AI architectures. I design fault-tolerant, event-driven pipelines using Kafka and optimize advanced RAG workflows under strict performance constraints.
-
-  <br>
+  Computer Science student at Chaitanya Bharathi Institute of Technology (CBIT) specializing in high-throughput backend engineering, distributed systems, and agentic AI architectures. I design fault-tolerant, event-driven pipelines using Kafka and optimize advanced RAG workflows under strict performance constraints.
+  <br><br>
 
   ![Location](https://img.shields.io/badge/Hyderabad,%20India-A78BFA?style=for-the-badge&logo=googlemaps&logoColor=white)
   [![Email](https://img.shields.io/badge/Email-ramcharanpolabathina@gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramcharanpolabathina@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Polabathina_Ramcharan_Teja-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polabathina-ramcharan-teja/)
   [![GitHub](https://img.shields.io/badge/GitHub-print_ramcharan-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/print-ramcharan)
-
   <br>
-
-![Profile views](https://komarev.com/ghpvc/?username=print-ramcharan&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
-
+  ![Profile views](https://komarev.com/ghpvc/?username=print-ramcharan&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7C3AED,100:A78BFA&height=2&section=header" width="100%"/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:C084FC&height=120&section=header&text=Tech%20Stack&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" />
-
-  <br><br>
+  <br>
   
   <code><b>LANGUAGES & CORE RUNTIMES</b></code>  
   <br>
   <img src="https://img.shields.io/badge/Java-A78BFA?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-A78BFA?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-A78BFA?style=for-the-badge&logo=typescript&logoColor=white" />
-  
   <br><br>
   
   <code><b>DISTRIBUTED SYSTEMS & INFRASTRUCTURE</b></code>  
@@ -40,7 +31,6 @@ Computer Science student at Chaitanya Bharathi Institute of Technology (CBIT) sp
   <img src="https://img.shields.io/badge/Apache_Kafka-A78BFA?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-A78BFA?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-A78BFA?style=for-the-badge&logo=docker&logoColor=white" />
-  
   <br><br>
   
   <code><b>DATA LAYERS & RETRIEVAL SYSTEMS</b></code>  
@@ -49,7 +39,6 @@ Computer Science student at Chaitanya Bharathi Institute of Technology (CBIT) sp
   <img src="https://img.shields.io/badge/Redis-A78BFA?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-A78BFA?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-A78BFA?style=for-the-badge&logo=sqlite&logoColor=white" />
-  
   <br><br>
 
   <code><b>INTELLIGENCE INTEGRATION & FRAMEWORKS</b></code>  
@@ -58,16 +47,13 @@ Computer Science student at Chaitanya Bharathi Institute of Technology (CBIT) sp
   <img src="https://img.shields.io/badge/FastAPI-A78BFA?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Vector_Storage-A78BFA?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native_(Expo)-A78BFA?style=for-the-badge&logo=react&logoColor=white" />
-
-  <br><br>
+  <br>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:C084FC&height=80&section=footer&animation=fadeIn" width="100%" />
 </div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:C084FC&height=120&section=header&text=GitHub%20Stats&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" />
-
-  <br><br>
+  <br>
 
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=print-ramcharan&show_icons=true&hide_border=true&bg_color=ffffff&title_color=a855f7&icon_color=a855f7&text_color=4b5563&ring_color=a855f7" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=print-ramcharan&layout=compact&hide_border=true&bg_color=ffffff&title_color=a855f7&text_color=4b5563" />
@@ -77,16 +63,13 @@ Computer Science student at Chaitanya Bharathi Institute of Technology (CBIT) sp
   <br><br>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=print-ramcharan&bg_color=ffffff&color=a855f7&line=a855f7&point=9333ea&area=true&hide_border=true" width="98%" />
-
-  <br><br>
+  <br>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:C084FC&height=80&section=footer&animation=fadeIn" width="100%" />
 </div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:C084FC&height=120&section=header&text=Featured%20Projects&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" />
-
-  <br><br>
+  <br>
 
   <table width="100%">
     <thead>
@@ -124,15 +107,13 @@ Computer Science student at Chaitanya Bharathi Institute of Technology (CBIT) sp
       </tr>
     </tbody>
   </table>
-
-  <br><br>
+  <br>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:C084FC&height=80&section=footer&animation=fadeIn" width="100%" />
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:C084FC&height=120&section=header&text=Currently%20Exploring&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" />
-
-  <br><br>
+  <br>
 
   <table width="100%">
     <thead>
@@ -160,12 +141,10 @@ Computer Science student at Chaitanya Bharathi Institute of Technology (CBIT) sp
       </tr>
     </tbody>
   </table>
-
-<br><br>
+  <br>
   
   <h3>💭 <i>"The horizon of systems engineering constantly shifts; I remain a student to the architectures I build for as long as I breathe."</i></h3>
   <b>Continuous Evolution • Impact • Resilience</b>
-
   <br><br>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:C084FC&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
