@@ -79,14 +79,14 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=print-ramcharan&show_icons=true&theme=transparent&title_color=7c4dff&icon_color=7c4dff&text_color=999999&border_color=7c4dff" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=print-ramcharan&show_icons=true&theme=transparent&title_color=7c4dff&icon_color=7c4dff&text_color=999999&border_color=7c4dff" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=print-ramcharan&theme=transparent&hide_border=false&border=7c4dff&stroke=7c4dff&ring=7c4dff&fire=7c4dff&currStreakNum=7c4dff&sideNums=7c4dff&sideLabels=999999&dates=999999" width="49%" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=print-ramcharan&layout=compact&theme=transparent&title_color=7c4dff&text_color=999999&border_color=7c4dff" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=print-ramcharan&layout=compact&theme=transparent&title_color=7c4dff&text_color=999999&border_color=7c4dff" width="60%" alt="Top Languages" />
 </div>
 
 <br />
@@ -94,7 +94,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/print-ramcharan/print-ramcharan/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
----
 
 <div align="center">
 
